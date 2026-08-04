@@ -1,0 +1,9 @@
+# mengabaikan folder yg akan di upload ke git
+project miyo/
+
+# mengabaikan file yg akan di upload ke git
+tes.log
+
+# mengabaikan file ekstensi tertentu
+*.py
+
